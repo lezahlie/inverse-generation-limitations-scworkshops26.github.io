@@ -20,7 +20,7 @@
 
 <h2 id="presentation">Presentation Slides</h2>
 
-  - **SC Workshop: AI4S 2026 Presentation:** [Download Slides](./documents/horace-animated-presentation-scworkshops26.pptx)
+  - **SC Workshop: AI4S 2026 Presentation:** Slides will be added after the conference ends.
     > LA-UR: `LA-UR-26-30019`
   
 
